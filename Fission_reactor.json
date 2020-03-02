@@ -1,0 +1,5837 @@
+{
+    "registryname": "Fission_reactor",
+    "localizedname": "Fission Reactor",
+	"color" : "#2d282e",
+    "parts": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "nbt": {"statusTag":{"type":"0","message":""},"casingColor":"16730368","id":"minecraft:tilemachinecontroller","items":{"inventoryArray":[{"holderEmpty":"1b","holderId":"0"},{"holderEmpty":"1b","holderId":"1"}],"outSlots":,"miscSlots":,"inSlots":,"sides":}},
+            "elements": [
+                "modularmachinery:blockcontroller@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 6,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 6,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 6,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 5,
+            "nbt": {"input":"0b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidoutputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 4,
+            "nbt": {"input":"0b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidoutputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 4,
+            "nbt": {"busSize":"1","casingColor":"16730368","id":"minecraft:tileitemoutputbus","inventory":{"inventoryArray":[{"holderEmpty":"1b","holderId":"0"},{"holderEmpty":"1b","holderId":"1"},{"holderEmpty":"1b","holderId":"2"},{"holderEmpty":"1b","holderId":"3"}],"outSlots":,"miscSlots":,"inSlots":,"sides":}},
+            "elements": [
+                "modularmachinery:blockoutputbus@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 4,
+            "nbt": {"input":"0b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidoutputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 6,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 6,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 3,
+            "nbt": {"input":"0b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidoutputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        
+        {
+            "x": -4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "nbt": {"busSize":"2","casingColor":"16730368","id":"minecraft:tileiteminputbus","inventory":{"inventoryArray":[{"holderEmpty":"1b","holderId":"0"},{"holderEmpty":"1b","holderId":"1"},{"holderEmpty":"1b","holderId":"2"},{"holderEmpty":"1b","holderId":"3"},{"holderEmpty":"1b","holderId":"4"},{"holderEmpty":"1b","holderId":"5"}],"outSlots":,"miscSlots":,"inSlots":,"sides":}},
+            "elements": [
+                "modularmachinery:blockinputbus@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"26b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"58b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"42b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"27b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"59b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"43b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"25b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"59b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"30b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"62b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"41b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"46b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+       
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "nbt": {"input":"1b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidinputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"31b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"63b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"47b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        
+        {
+            "x": -4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"31b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"61b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"22b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"54b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"47b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersivetech:fluiddistwater@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"38b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 4,
+            "nbt": {"busSize":"2","casingColor":"16730368","id":"minecraft:tileiteminputbus","inventory":{"inventoryArray":[{"holderEmpty":"1b","holderId":"0"},{"holderEmpty":"1b","holderId":"1"},{"holderEmpty":"1b","holderId":"2"},{"holderEmpty":"1b","holderId":"3"},{"holderEmpty":"1b","holderId":"4"},{"holderEmpty":"1b","holderId":"5"}],"outSlots":,"miscSlots":,"inSlots":,"sides":}},
+            "elements": [
+                "modularmachinery:blockinputbus@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "nbt": {"input":"1b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidinputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"23b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"55b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "nbt": {"input":"1b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidinputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"39b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 4,
+            "nbt": {"busSize":"2","casingColor":"16730368","id":"minecraft:tileiteminputbus","inventory":{"inventoryArray":[{"holderEmpty":"1b","holderId":"0"},{"holderEmpty":"1b","holderId":"1"},{"holderEmpty":"1b","holderId":"2"},{"holderEmpty":"1b","holderId":"3"},{"holderEmpty":"1b","holderId":"4"},{"holderEmpty":"1b","holderId":"5"}],"outSlots":,"miscSlots":,"inSlots":,"sides":}},
+            "elements": [
+                "modularmachinery:blockinputbus@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"21b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"55b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "nbt": {"sideConfig":,"id":"immersiveengineering:fluidpipe","connections":"37b"},
+            "elements": [
+                "immersiveengineering:metal_device1@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "nbt": {"input":"1b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidinputhatch","tank":{"Empty":""}},
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:stone_decoration@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:metal_decoration0@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "immersiveengineering:sheetmetal@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "nbt": {"busSize":"2","casingColor":"16730368","id":"minecraft:tileiteminputbus","inventory":{"inventoryArray":[{"holderEmpty":"1b","holderId":"0"},{"holderEmpty":"1b","holderId":"1"},{"holderEmpty":"1b","holderId":"2"},{"holderEmpty":"1b","holderId":"3"},{"holderEmpty":"1b","holderId":"4"},{"holderEmpty":"1b","holderId":"5"}],"outSlots":,"miscSlots":,"inSlots":,"sides":}},
+            "elements": [
+                "modularmachinery:blockinputbus@2"
+            ]
+        }
+    ]
+}
